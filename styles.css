@@ -43,7 +43,7 @@ header {
     width: 100%;
     text-align: center;
     padding: 20px 0;
-    font-size: 24px;
+    font-size: 48px;
     font-family: fantasy;
     font-weight: bolder;
     animation: fadeInDown 1s ease-out;
@@ -94,7 +94,7 @@ nav.dropmenu ul li a {
     color: rgb(255, 255, 255);
     text-decoration: none;
     font-family: fantasy;
-    font-size: 1.5rem;
+    font-size: 3rem;
     transition: color 0.3s ease, transform 0.3s ease;
 }
 
@@ -141,7 +141,7 @@ section.section1 {
     border-radius: 25px;
     text-align: center;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
-    font-size: 1.2rem;
+    font-size: 3rem;
     animation: fadeInUp 1s ease-out;
 }
 
@@ -195,6 +195,7 @@ footer {
     padding: 10px 0;
     margin-top: auto;
     animation: fadeIn 2s ease-out;
+    font-size: 12px;
 }
 
 /* Estilos para la página de productos */
@@ -210,12 +211,12 @@ footer {
 }
 
 .product-section h2 {
-    font-size: 2rem;
+    font-size: 3rem;
     margin-bottom: 10px;
 }
 
 .product-section p {
-    font-size: 1.2rem;
+    font-size: 3rem;
     margin-bottom: 20px;
 }
 
@@ -246,12 +247,12 @@ footer {
 }
 
 .product-card h3 {
-    font-size: 1.5rem;
+    font-size: 3rem;
     margin-bottom: 10px;
 }
 
 .product-card p {
-    font-size: 1rem;
+    font-size: 3rem;
     margin-bottom: 15px;
 }
 
@@ -260,7 +261,7 @@ footer {
     color: #000000;
     border: none;
     padding: 10px 20px;
-    font-size: 1rem;
+    font-size: 3rem;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease, transform 0.3s ease;
@@ -275,4 +276,3 @@ footer {
     background-color: #cc9a00;
     transform: scale(0.95);
 }
-
