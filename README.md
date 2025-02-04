@@ -1,3 +1,4 @@
 # Carniceria
 
-Pagina para actividad en clase *hecha para celular mayormente*
+Pagina para actividad en clase hecha en equipo
+Materia: Full Stack
